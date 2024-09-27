@@ -7,7 +7,7 @@
 Mr.Coder 
 </h2>
 
-<p>HTML images are defined with the img tag:</p>
+<p>HTML python project sql 2024:</p>
 
 </body>
 </html>
